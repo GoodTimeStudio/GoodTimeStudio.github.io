@@ -1,0 +1,16 @@
+{
+    "server-list": [
+        {
+            "name": "MechGear群组服务器",
+            "imageURL": "http://ww4.sinaimg.cn/mw690/005uLTuygw1etcup9vg4vj30nq0dcwib.jpg"
+        },
+        {
+            "name": "工业魔法",
+            "imageURL": "http://ww3.sinaimg.cn/mw690/005uLTuygw1euvlzjrp9dj30nq0dcjt9.jpg"
+        },
+        {
+            "name": "格雷科技",
+            "imageURL": "http://ww4.sinaimg.cn/mw690/005uLTuygw1evboszt8nij311y0jm491.jpg"
+        }
+    ]
+}
